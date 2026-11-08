@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="images/64-final-ui-home-check-balance.webp" alt="The redesigned ICICI Bank iMobile Android home screen, with Check Balance, Top Activities, and Discover" width="280"/>
+<img src="images/64-final-ui-hand-mockup.webp" alt="A hand holding an iPhone showing the redesigned ICICI Bank iMobile home screen, with Check Balance, Top Activities, and Discover" width="420"/>
 
 # Redesigning a mobile banking experience
-### A UX case study: ICICI Bank iMobile for Android
+### A UX case study: ICICI Bank iMobile for iOS
 
 ![Role](https://img.shields.io/badge/Role-UX%20Designer-3d5aa8?style=flat-square)
 ![Duration](https://img.shields.io/badge/Duration-6%20months-5b6478?style=flat-square)
 ![Tools](https://img.shields.io/badge/Tools-Figma%20%C2%B7%20X--Mind%20%C2%B7%20InVision-F24E1E?style=flat-square)
-![Platform](https://img.shields.io/badge/Platform-Android-111111?style=flat-square)
+![Platform](https://img.shields.io/badge/Platform-iOS-111111?style=flat-square)
 ![Employer](https://img.shields.io/badge/Employer-ICICI%20Bank-c2410c?style=flat-square)
 
 **Suvarna Myneni**
@@ -24,7 +24,7 @@
 | | |
 |---|---|
 | **Employer** | ICICI Bank (in-house, full-time) |
-| **Product** | ICICI Bank iMobile App Redesign, for Android |
+| **Product** | iMobile dashboard, redesigned for iOS |
 | **Role** | UX Designer at ICICI Bank. Led the research and core UX design. A first major role as a UX designer. |
 | **Team** | Suvarna, Ravi, Salma, Priyanka (PM) |
 | **Timeline** | 11 Months |
@@ -33,7 +33,7 @@
 
 ICICI Bank is India’s largest private bank, with a presence in 7+ countries. iMobile, launched in 2008 and described as India’s first mobile banking application, served over 10 million users at the time of this project. The bank’s customers, a wider group, totaled over 62 million.
 
-The task was a user-centered Android app that holds many banking jobs and still stays simple, accessible, and efficient for a diverse audience. I moved the balance and upcoming transactions to the top, and brought key actions out of the hamburger menu.
+The task was a user-centered iOS app that holds many banking jobs and still stays simple, accessible, and efficient for a diverse audience. I moved the balance and upcoming transactions to the top, and brought key actions out of the hamburger menu.
 
 ---
 
@@ -74,7 +74,7 @@ In 2008 ICICI Bank launched iMobile. The case study calls it India’s first mob
 
 ## The challenge
 
-> ICICI Bank aimed to revamp its iMobile app for Android, focusing on delivering an intuitive and delightful experience. My task was to design a comprehensive personal banking app that seamlessly integrates diverse functionalities while catering to a broad user base with varying financial needs. The challenge was to create a user-centric interface that balances simplicity, accessibility, and efficiency, ensuring the app remains both functional and engaging for a diverse audience.
+> ICICI Bank aimed to revamp its iMobile app for iOS, focusing on delivering an intuitive and delightful experience. My task was to design a comprehensive personal banking app that seamlessly integrates diverse functionalities while catering to a broad user base with varying financial needs. The challenge was to create a user-centric interface that balances simplicity, accessibility, and efficiency, ensuring the app remains both functional and engaging for a diverse audience.
 
 ## What I knew going in
 
@@ -211,7 +211,7 @@ A vague, inconsistent transaction narration shows up more than once. Clearer nar
 
 From the wireframe annotations:
 
-- Notifications, and a swipe to see the balance, without logging in. Fingerprint and face unlock for login.
+- Notifications, and a swipe to see the balance, without logging in. Fingerprint and Face ID for login.
 - Shareable account details, with a choice of which details. Bookmarks, category edits, and a communication-address update from home. Filters include type, mode, time, amount, cheque, and history up to three years.
 - A fixed deposit drawn so the money can be seen growing, plus FD advice.
 - Bill categories ordered by how often that person pays them, and Auto Pay.
@@ -236,13 +236,13 @@ The final frames cover login (including “Swipe to see your balance”), the da
 
 > The end product was what I envisioned it to be. A beautiful and functional banking app that was one-of-its-kind in India. The app allows the user to perform all primary tasks seamlessly. It also makes those not-so-commonly-used features discoverable if the user ever needs them.
 
-To stay relevant, the design integrated payments via QR codes, login via fingerprint, face unlock, and voice recognition, and in-app voice search. Intended capabilities.
+To stay relevant, the design integrated payments via Siri and QR codes, login via Touch ID, Face ID, and voice recognition, and Siri-enabled in-app voice search. Intended capabilities.
 
 The balance and upcoming transactions sit at the top. Key actions are out of the hamburger menu. No launch metric is stated.
 
 ## What I learned
 
-> Working on this project has taught me a lot about the design thinking process, the do’s and don’ts of mobile design (especially when it comes to Android), and the importance of not getting married to an idea.
+> Working on this project has taught me a lot about the design thinking process, the do’s and don’ts of mobile design (especially when it comes to iOS), and the importance of not getting married to an idea.
 
 That lesson sits inside a first major UX role, in-house at ICICI Bank. The wireframe trade-off is the same point in practice: a shorter journey still had to leave room for discoverability and for the products the bank needed people to find.
 
